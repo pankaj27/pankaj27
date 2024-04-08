@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Master of Computer Application from IGNOU.
-- 💼 &nbsp; Working as a Software Developer at Senate of Serampore College(University).
-- 💼 &nbsp; Worrked as a Software Developer at Senate of Serampore College(University).
+- 💼 &nbsp; Working as a Software Programmer at Senate of Serampore College(University).
+- 💼 &nbsp; Worrked as a Software Developer at Crystal Planet Solution(Kolkata).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Doing Freelancing(Freelancer.com & Upwork) as side hustles.
 
