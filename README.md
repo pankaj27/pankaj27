@@ -15,7 +15,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Java&logoColor=007396)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Java&logoColor=007396)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   
 - 🌐 &nbsp;
